@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: abf0e9;
+
+}
+.box{
+    margin: auto;
+    width: 800px;
+    padding:40px
+    background: d9455f
+}
+.box-input {
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    border: 3px solid007892;
+    text-align: center;
+    margin: 20px;
+    color: darkgray;
+}
+hr {
+    border: 3px solid rgb(75,190,75);
+    border-radius: 5px;
+}
+table {
+    background-color: 162447;
+    border:1px salmon;
+}
+::placeholder{
+    color: rgba(45,175,240,.595)
+}
